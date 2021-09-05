@@ -12,10 +12,10 @@ function MainComponent() {
             <Router>
                 <Switch>
                     <Route path="/" exact component={LandingPage} />
-                    <Route path="/userinfo" exact component={UserInfo} />
+                    {/* <Route path="/userinfo" exact component={UserInfo} />
                     <Route path="/signup" exact component={Signup} />
                     <Route path="/login" exact component={Signin} />
-                    <Route path="/feed" exact component={Application} />
+                    <Route path="/feed" exact component={Application} /> */}
                 </Switch>
             </Router>
         </div>
