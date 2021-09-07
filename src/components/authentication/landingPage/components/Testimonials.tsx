@@ -43,7 +43,7 @@ function Testimonials() {
                 <div className="section-testimonials__map__testimonial5">
                    <img src="https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHBlb3BsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" className="section-testimonials__map__image"  alt=""/> 
                    <p>
-                   Sir , explain us everything from scratch even we are not from ece or electronic branch we understand it and love it it 
+                   Sir explained everything from scratch even we are not from ece or electronic branch we understand it and love it it 
                    </p>
                 </div>
                 <div className="section-testimonials__map__testimonial6">
@@ -68,6 +68,12 @@ function Testimonials() {
                    <img src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHBlb3BsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" className="section-testimonials__map__image"  alt=""/> 
                    <p>
                    You guys are doing great.Keep it up!! Looking forward to more such sessions!
+                   </p>
+                </div>
+                <div className="section-testimonials__map__testimonial10">
+                   <img src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHBlb3BsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" className="section-testimonials__map__image"  alt=""/> 
+                   <p>
+                   Sir was very interactive and cleared all our doubts. So,there is no improvement that i can suggest for this session. 
                    </p>
                 </div>
             </div>
