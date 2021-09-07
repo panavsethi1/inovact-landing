@@ -319,6 +319,10 @@ body {
       justify-content: center;
       text-align: center;
       align-items: center; }
+      @media only screen and (max-width: 48em) {
+        .section-testimonials__map__testimonial1 {
+          top: 0rem;
+          left: 20%; } }
       .section-testimonials__map__testimonial1 img {
         border: 2px solid #02bd63;
         border-radius: 50%;
@@ -346,12 +350,18 @@ body {
         border-radius: 10px;
         background-color: #02bd63;
         color: white; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial1:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial1:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial1:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial2 {
       position: absolute;
       padding: 1rem;
@@ -390,12 +400,18 @@ body {
         z-index: 50000;
         background-color: #02bd63;
         color: white; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial2:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial2:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial2:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial3 {
       position: absolute;
       padding: 1rem;
@@ -433,12 +449,18 @@ body {
         border-radius: 10px;
         background-color: #02bd63;
         color: white; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial3:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial3:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial3:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial4 {
       position: absolute;
       padding: 1rem;
@@ -477,12 +499,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial4:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial4:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial4:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial5 {
       position: absolute;
       padding: 1rem;
@@ -521,12 +549,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial5:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial5:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial5:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial6 {
       position: absolute;
       padding: 1rem;
@@ -565,12 +599,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial6:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial6:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial6:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial7 {
       position: absolute;
       padding: 1rem;
@@ -609,12 +649,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial7:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial7:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial7:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial8 {
       position: absolute;
       padding: 1rem;
@@ -653,12 +699,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial8:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial8:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial8:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial9 {
       position: absolute;
       padding: 1rem;
@@ -697,12 +749,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial9:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial9:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial9:hover p {
+              font-size: 0.5rem; } }
     .section-testimonials__map__testimonial10 {
       position: absolute;
       padding: 1rem;
@@ -740,12 +798,18 @@ body {
         background-color: #02bd63;
         color: white;
         z-index: 10000; }
+        @media only screen and (max-width: 36em) {
+          .section-testimonials__map__testimonial10:hover {
+            width: 10rem; } }
         .section-testimonials__map__testimonial10:hover p {
           display: block;
           font-weight: 300;
           font-size: 1.4rem;
           line-height: 160%;
           text-align: center; }
+          @media only screen and (max-width: 36em) {
+            .section-testimonials__map__testimonial10:hover p {
+              font-size: 0.5rem; } }
 
 .section-contact {
   background-color: #001948;
