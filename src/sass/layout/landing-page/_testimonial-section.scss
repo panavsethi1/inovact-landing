@@ -36,6 +36,7 @@
             justify-content: center;
             text-align: center;
             align-items: center;
+            transition: all 0.2s;
             @include respond(sm) {
                 top: 0rem;
                 left: 20%;
